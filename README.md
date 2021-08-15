@@ -1,2 +1,2 @@
 # numbers-to-superscript
-Converts all numbers in text to superscript unicode
+Converts all numbers in text to superscript unicode characters
