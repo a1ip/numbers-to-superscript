@@ -4,9 +4,9 @@ Converts all numbers in text to superscript unicode characters
 ## Example
 
 ```javascript
-const raiseNumbers = require('numbers-to-superscript')
+const sup = require('numbers-to-superscript')
 
-console.log(raiseNumbers('21 Prove all things; hold fast that which is good.'))
+console.log(sup('21 Prove all things; hold fast that which is good.'))
 ```
 
 Output:
