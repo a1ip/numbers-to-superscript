@@ -1,0 +1,29 @@
+{
+  "name": "numbers-to-superscript",
+  "version": "1.0.0",
+  "description": "Converts all numbers in text to superscript unicode characters",
+  "main": "toSuperscript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a1ip/numbers-to-superscript.git"
+  },
+  "keywords": [
+    "replace",
+    "convert",
+    "numbers",
+    "superscript",
+    "super",
+    "sup",
+    "unicode",
+    "ascii"
+  ],
+  "author": "Philippe Rigovanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a1ip/numbers-to-superscript/issues"
+  },
+  "homepage": "https://github.com/a1ip/numbers-to-superscript"
+}
