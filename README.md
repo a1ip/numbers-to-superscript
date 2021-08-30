@@ -23,7 +23,7 @@ npm i numbers-to-superscript
 
 ## API
 
-### `require('superscript-text')(str)`
+### `require('numbers-to-superscript')(str)`
 Converts all numbers in `str` into unicode superscript chracters
 
 * `str` is a string containing any chracters
