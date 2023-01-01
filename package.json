@@ -1,8 +1,8 @@
 {
   "name": "numbers-to-superscript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts all numbers in text to superscript unicode characters",
-  "main": "toSuperscript.js",
+  "main": "toSuperscript.cjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
