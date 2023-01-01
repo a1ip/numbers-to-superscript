@@ -1,6 +1,6 @@
 {
   "name": "numbers-to-superscript",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Converts all numbers in text to superscript unicode characters",
   "type": "module",
   "main": "src/index.js",

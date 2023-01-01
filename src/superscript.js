@@ -11,7 +11,7 @@ const DIGITS = {
   '9': '⁹'
 }
 
-export default function toSuperscript(s) {
+export default function superscript(s) {
   return s.split('').map(function(ch) {
     if(ch in DIGITS) {
       return DIGITS[ch]
