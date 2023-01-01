@@ -1,9 +1,12 @@
 {
   "name": "numbers-to-superscript",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Converts all numbers in text to superscript unicode characters",
-  "main": "./index.mjs",
   "type": "module",
+  "main": "src/index.js",
+  "files": [
+    "src/**/*.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
