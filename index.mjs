@@ -1,5 +1,3 @@
-module.exports = toSuperScript
-
 const DIGITS = {
   '0': '⁰',
   '1': '¹',
@@ -13,7 +11,7 @@ const DIGITS = {
   '9': '⁹'
 }
 
-function toSuperScript(s) {
+export function toSuperScript(s) {
   return s.split('').map(function(ch) {
     if(ch in DIGITS) {
       return DIGITS[ch]
